@@ -1,0 +1,29 @@
+body{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-family: 'Russo One', sans-serif;
+}
+.to{
+    height: 100px;
+    
+}
+.po{
+    color: darkred;
+}
+
+.fo{
+    color: darkseagreen;
+}
+.all{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.all img{
+    width: 70%;
+}
+.h6 uu{
+    float: right;
+}
